@@ -1,0 +1,15 @@
+.header{
+    background-color: coral;
+    border-radius: 5px;
+    display: flex;
+}
+
+.work,
+.phone,
+.address,
+.nav-container,
+.description,
+.service
+{ 
+    padding-left:  10px;
+}
